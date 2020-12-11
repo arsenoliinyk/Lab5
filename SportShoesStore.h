@@ -31,8 +31,8 @@ public:
 
 	
 
-	void sortprice();
-	void sortquantity();
-	void sorttoppopular();
+	void sort_price();
+	void sort_quantity();
+	void sort_top_popular();
 
 };

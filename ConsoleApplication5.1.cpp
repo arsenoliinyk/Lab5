@@ -6,9 +6,9 @@ using namespace std;
 int main()
 {
 	SportShoesStore store(5);
-	store.sortprice();
-	store.sortquantity();
-	store.sorttoppopular();
+	store.sort_price();
+	store.sort_quantity();
+	store.sort_top_popular();
 }
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu

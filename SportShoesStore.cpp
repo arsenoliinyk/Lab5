@@ -3,7 +3,7 @@
 #include "Sneakers.h"
 
 
-void SportShoesStore::sortprice() {
+void SportShoesStore::sort_price() {
 	int len = s.size();
 	cout << "Sort by price:" << endl;
 	for (int i = 0; i < len - 1; i++)
@@ -23,7 +23,7 @@ void SportShoesStore::sortprice() {
 	cout << "----------------------------------" << endl;
 }
 
-void SportShoesStore::sortquantity() {
+void SportShoesStore::sort_quantity() {
 	int len = s.size();
 	cout << "Sort by quantity:" << endl;
 	for (int i = 0; i < len - 1; i++)
@@ -43,7 +43,7 @@ void SportShoesStore::sortquantity() {
 	cout << "----------------------------------" << endl;
 }
 
-void SportShoesStore::sorttoppopular() {
+void SportShoesStore::sort_top_popular() {
 	int len = s.size();
 	cout << "Sort by popular:" << endl;
 	for (int i = 0; i < len - 1; i++)
