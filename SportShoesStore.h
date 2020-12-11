@@ -7,7 +7,7 @@ using namespace std;
 class SportShoesStore {
 private:
 	vector<Sneakers> s;
-	string brand[5] = { "Adidas","Nike","Puma","UnderUrmor","NewBalace" };
+	string brand[5] = { "Adidas","Nike","Puma","Under Armour","New Balance" };
 	string color[5] = { "blue","green","purple","white","yellow" };
 	string material[5] = { "Leather","Leather","Leather","Leather","Leather" };
 
