@@ -1,10 +1,10 @@
 # Lab5
 
-## Суть порограми:
-15 варіант лабораторної роботи передбачав створення класу Sneakers (brand, size, color, price, quantity, material, numberOfSales, etc). Додання класу SportShoesStore, який містить асортимент кросівок. Реалізування методи для сортування взуття за ціною і кількістю та можливість вивести топ найпопулярніших кросівок. 
-## Запуск програми:
-1) Відкриваємо командний рядок на своїй машині
-2) Командами cd заходимо у потрібний вам шлях програми
-3) Пишемо команду git clone https://github.com/arsenoliinyk/Lab5.git щоб завантажити все з нашого репозиторія
-4) За допомогою IDE (у мому випадку Visual Studio) відкриваємо папку, яку щойно завантажили
-5) Запускаємо програму
+## The essence of the program:
+15 version of the laboratory work involved the creation of a class Sneakers (brand, size, color, price, quantity, material, numberOfSales, etc). Adding the SportShoesStore class, which contains an assortment of sneakers. Implementation of methods for sorting shoes by price and quantity and the ability to display the top most popular sneakers.
+## Instruction for running the program:
+1) Open the command line on your machine;
+2) Use the cd commands to enter the program path you need;
+3) We write the command git clone https://github.com/arsenoliinyk/Lab5.git to download everything from our repository;
+4) Using the IDE (in my case, Visual Studio), open the folder you just downloaded;
+5) Run the program.
